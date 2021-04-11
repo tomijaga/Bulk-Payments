@@ -15,4 +15,8 @@ of the account you want to send coins from
     }
   ```
   
+  Once set run 
+  
+    node index.js 
+  
   
