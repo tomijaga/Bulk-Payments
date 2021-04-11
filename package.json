@@ -1,0 +1,17 @@
+{
+  "name": "bulkpayments",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "thenewboston": "^1.1.0-alpha.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
